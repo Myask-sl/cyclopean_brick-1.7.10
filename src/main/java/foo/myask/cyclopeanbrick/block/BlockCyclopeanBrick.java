@@ -22,7 +22,7 @@ public class BlockCyclopeanBrick extends Block {
             {0,1, 5,4, 2,3, 6}
         };
 
-    protected BlockCyclopeanBrick(Material materialIn) {
+    public BlockCyclopeanBrick(Material materialIn) {
         super(materialIn);
     }
 
