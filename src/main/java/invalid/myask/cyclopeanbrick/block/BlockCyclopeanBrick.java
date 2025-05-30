@@ -1,7 +1,7 @@
-package foo.myask.cyclopeanbrick.block;
+package invalid.myask.cyclopeanbrick.block;
 
-import foo.myask.cyclopeanbrick.CyclopeanBrick;
-import foo.myask.cyclopeanbrick.client.YRotatedBlockRenderer;
+import invalid.myask.cyclopeanbrick.CyclopeanBrick;
+import invalid.myask.cyclopeanbrick.client.YRotatedBlockRenderer;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;

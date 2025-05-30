@@ -1,8 +1,8 @@
-package foo.myask.cyclopeanbrick;
+package invalid.myask.cyclopeanbrick;
 
-import static foo.myask.cyclopeanbrick.CyclopeanBrick.THEBLOCK;
+import static invalid.myask.cyclopeanbrick.CyclopeanBrick.THEBLOCK;
 
-import foo.myask.cyclopeanbrick.block.BlockCyclopeanBrick;
+import invalid.myask.cyclopeanbrick.block.BlockCyclopeanBrick;
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Blocks;

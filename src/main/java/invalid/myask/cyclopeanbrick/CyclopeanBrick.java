@@ -1,4 +1,4 @@
-package foo.myask.cyclopeanbrick;
+package invalid.myask.cyclopeanbrick;
 
 import net.minecraft.block.Block;
 

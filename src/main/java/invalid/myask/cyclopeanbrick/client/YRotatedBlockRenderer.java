@@ -1,4 +1,4 @@
-package foo.myask.cyclopeanbrick.client;
+package invalid.myask.cyclopeanbrick.client;
 
 import net.minecraft.block.Block;
 import net.minecraft.client.renderer.RenderBlocks;

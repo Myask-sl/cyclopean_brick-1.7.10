@@ -1,8 +1,8 @@
-package foo.myask.cyclopeanbrick;
+package invalid.myask.cyclopeanbrick;
 
 import cpw.mods.fml.client.registry.RenderingRegistry;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
-import foo.myask.cyclopeanbrick.client.YRotatedBlockRenderer;
+import invalid.myask.cyclopeanbrick.client.YRotatedBlockRenderer;
 
 public class ClientProxy extends CommonProxy {
 
